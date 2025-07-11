@@ -64,6 +64,7 @@ class Historial {
 //Esta clase guarda los estados anteriores del editor.
 
 //Usa una pila (stack) para poder deshacer en orden.
+//“El Stack es como una pila de cosas: lo último que pusiste es lo primero que puedes sacar.”
 
 //guardarEstado() guarda un nuevo estado.
 
